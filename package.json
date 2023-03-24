@@ -1,0 +1,14 @@
+{
+  "name": "PW2-Atividade03",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MatheusNunes133/PW2-Atividade03.git",
+  "author": "Matheus Nunes Miguel <matheusnunesmiguel6@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc index.ts && node index.js"
+  },
+  "dependencies": {
+    "typescript": "^5.0.2"
+  }
+}
